@@ -1,5 +1,6 @@
-# Pimoroni Pico Libraries and Examples
+# Pico Pi-Deck RGB
 
+A Pico based Keyboard based on the Pimoroni RGB Keybaord, and built on their Keyboard Sample.
 
 Welcome to the brave new world of Pico! This repository contains the C/C++ and MicroPython libraries for our range of Raspberry Pi Pico addons.
 
