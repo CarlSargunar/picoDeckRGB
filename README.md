@@ -2,6 +2,14 @@
 
 A Pico based Keyboard based on the Pimoroni RGB Keybaord, and built on their Keyboard Sample.
 
+## Notes:
+
+Pico as a generic USB Device - https://github.com/raspberrypi/pico-examples/tree/master/usb%2Fdevice%2Fdev_hid_generic_inout
+
+Pete's Example - https://github.com/pjgpetecodes/pico-streamdeck
+
+## Old Stuff:
+
 Welcome to the brave new world of Pico! This repository contains the C/C++ and MicroPython libraries for our range of Raspberry Pi Pico addons.
 
 First of all you need to decide if your project is going to be done in MicroPython or using C/C++ with the Pico SDK. We have instructions for both here:
