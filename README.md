@@ -8,6 +8,8 @@ Pico as a generic USB Device - https://github.com/raspberrypi/pico-examples/tree
 
 Pete's Example - https://github.com/pjgpetecodes/pico-streamdeck
 
+Node based Task List : https://github.com/geerlingguy/obs-task-list-overlay
+
 ## Old Stuff:
 
 Welcome to the brave new world of Pico! This repository contains the C/C++ and MicroPython libraries for our range of Raspberry Pi Pico addons.
